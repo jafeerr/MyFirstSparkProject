@@ -45,7 +45,7 @@ object AttandanceCalculator {
     val requiredMins: Long = (attandanceMap.count() * DailyReqHrs)
 
     val swippedMins: Long = attandanceMap.sum().toLong
-
+      println(s"No. Of Working Days:${attandanceMap.count()}")
     if (requiredMins > swippedMins)
       println(s" You are lagging mandetory attendance by ${formatResult(requiredMins - swippedMins)}")
     else
