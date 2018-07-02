@@ -1,0 +1,30 @@
+﻿01/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Sunday,Active
+02/04/18,M1032643,Jafeer Ali,42248,09:47:49 AM,08:22:49 PM,10:35,00:00,10:35,No,No,Monday,Active
+03/04/18,M1032643,Jafeer Ali,42248,09:26:40 AM,05:02:50 PM,07:36,00:00,07:36,No,No,Tuesday,Active
+04/04/18,M1032643,Jafeer Ali,42248,,,,00:00,,Working From Home,No,Wednesday,Active
+05/04/18,M1032643,Jafeer Ali,42248,11:13:28 AM,09:26:18 PM,10:12,00:00,10:12,No,No,Thursday,Active
+06/04/18,M1032643,Jafeer Ali,42248,11:39:57 AM,12:20:11 AM,12:40,00:00,12:40,No,No,Friday,Active
+07/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Saturday,Active
+08/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Sunday,Active
+09/04/18,M1032643,Jafeer Ali,42248,10:41:25 AM,10:42:38 PM,12:01,00:00,12:01,No,No,Monday,Active
+10/04/18,M1032643,Jafeer Ali,42248,09:01:04 AM,09:12:32 PM,12:11,00:00,12:11,No,No,Tuesday,Active
+11/04/18,M1032643,Jafeer Ali,42248,11:29:15 AM,10:08:31 PM,10:39,00:00,10:39,No,No,Wednesday,Active
+12/04/18,M1032643,Jafeer Ali,42248,10:49:34 AM,12:00:13 AM,13:10,00:00,13:10,No,No,Thursday,Active
+13/04/18,M1032643,Jafeer Ali,42248,11:27:44 AM,08:49:43 PM,09:21,00:00,09:21,No,No,Friday,Active
+14/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Saturday,Active
+15/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Sunday,Active
+16/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,Annual Leave/Vacation,Monday,Active
+17/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,Annual Leave/Vacation,Tuesday,Active
+18/04/18,M1032643,Jafeer Ali,42248,08:49:17 AM,07:59:17 PM,11:10,00:00,11:10,No,No,Wednesday,Active
+19/04/18,M1032643,Jafeer Ali,42248,09:11:51 AM,05:36:15 PM,08:24,00:00,08:24,No,No,Thursday,Active
+20/04/18,M1032643,Jafeer Ali,42248,09:32:48 AM,08:56:03 PM,11:23,00:00,11:23,No,No,Friday,Active
+21/04/18,M1032643,Jafeer Ali,42248,09:33:31 AM,06:52:15 PM,09:18,00:00,09:18,No,No,Saturday,Active
+22/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Sunday,Active
+23/04/18,M1032643,Jafeer Ali,42248,11:39:25 AM,08:11:10 PM,08:31,00:00,08:31,No,No,Monday,Active
+24/04/18,M1032643,Jafeer Ali,42248,09:34:02 AM,08:03:52 PM,10:29,00:00,10:29,No,No,Tuesday,Active
+25/04/18,M1032643,Jafeer Ali,42248,09:08:56 AM,04:48:15 PM,07:39,00:00,07:39,No,No,Wednesday,Active
+26/04/18,M1032643,Jafeer Ali,42248,09:50:46 AM,05:28:14 PM,07:37,00:00,07:37,No,No,Thursday,Active
+27/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,Compensatory Off,No,Friday,Active
+28/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Saturday,Active
+29/04/18,M1032643,Jafeer Ali,42248,,,,00:00,00:00,No,No,Sunday,Active
+30/04/18,M1032643,Jafeer Ali,42248,09:33:59 AM,08:36:21 PM,11:02,00:00,11:02,No,No,Monday,Active
