@@ -4,19 +4,9 @@ import org.apache.log4j.Level
 import org.apache.log4j.Logger
 import org.apache.spark.SparkContext
 object AttandanceCalculator {
-  val DailyReqHrs = 9 * 60
-  def main(args: Array[String]) {
-
-    // Set the log level to only print errors
-    Logger.getLogger("org").setLevel(Level.ERROR)
-
-    // Create a SparkContext using every core of the local machine, named AttandanceCalculator
-    val sc = new SparkContext("local[*]", "AttandanceCalculator")
-
-    // Load up each line of the data into an RDD
-    val lines = sc.textFile("../ml-100k/report.txt")
-
-    //Parse input swipped hours to minutes eg:  10:00 to 600
+  val DailyReqHrs = 9 * 60 //constant
+  
+  //Parse input swipped hours to minutes eg:  10:00 to 600
     def parseTime(input: String): Long = {
       if (input.isEmpty())
         0
@@ -37,6 +27,19 @@ object AttandanceCalculator {
           builder.append(minutes + " Minutes")
         builder.toString()
       }
+    //Main function
+  def main(args: Array[String]) {
+
+    // Set the log level to only print errors
+    Logger.getLogger("org").setLevel(Level.ERROR)
+
+    // Create a SparkContext using every core of the local machine, named AttandanceCalculator
+    val sc = new SparkContext("local[*]", "AttandanceCalculator")
+
+    // Load up each line of the data into an RDD
+    val lines = sc.textFile("../ml-100k/report.txt")
+
+    
     val info: Array[String] = lines.first().split(",")
     println(s"*************************************\n Employee Id:${info(1)} \tEmployee Name:${info(2)}")
     var attandanceMap = lines.map(x => parseTime(x.toString().split(",")(8))) //swipped hours present in 9th position of CSV
